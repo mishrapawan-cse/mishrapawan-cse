@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src=" https://www.google.com/search?q=animated+coding+images&tbm=isch&ved=2ahUKEwjI8PXcyrD6AhVVk9gFHcDyBo0Q2-cCegQIABAA&oq=animated+coding+&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQHhAHMgYIABAeEAcyBAgAEB4yBggAEB4QCDIGCAAQHhAIMgYIABAeEAg6BAgjECc6BwgAELEDEEM6CggAELEDEIMBEEM6CwgAEIAEELEDEIMBOggIABCABBCxAzoECAAQQzoHCCMQ6gIQJzoICAAQsQMQgwE6BAgAEAM6BAgAEBg6BggAEAoQGFCgB1jjdmDnjgFoAXAAeAWAAagEiAHORJIBCTItNC44LjMuN5gBAKABAaoBC2d3cy13aXotaW1nsAEDwAEB&sclient=img&ei=W58wY4jXLNWm4t4PwOWb6Ag&bih=746&biw=1519&rlz=1C1CHBD_enIN1002IN1002&hl=en-GB">
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+images&tbm=isch&hl=en-GB&chips=q:animated+coding+images,online_chips:gif:nckDF0MhefE%3D,online_chips:programmer:Z02tvheektg%3D&rlz=1C1CHBD_enIN1002IN1002&sa=X&ved=2ahUKEwiGlcD_z7D6AhW_0XMBHR6aAcoQ4lYoAnoECAEQKg&biw=1519&bih=746">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrapawan-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mishrapawan-cse" /> </p>
 
