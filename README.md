@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **engineersaabofficial@gmail.com**
 
-- ⚡ Fun fact **Well, I am not Funny at all..**
+- ⚡ Fun fact **Well, I am not Funny at all.. A bit yes I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
